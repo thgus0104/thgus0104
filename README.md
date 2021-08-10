@@ -1,8 +1,14 @@
-# Multi Campus
+# Profile
 
-## 빅데이터 기반 지능형 서비스 개발 과정
+**정소현(Sohyeon Jeong)**
 
-### 5회차_정소현
+**Web Developer Trainee**
 
-수정사항 추가
+## Now on
+
+### Multi Campus
+
+**빅데이터 기반 지능형 서비스 개발 과정(5회차)**
+
+July 2021 - December 2021
 
